@@ -1,0 +1,13 @@
+*{box-sizing:border-box}body{font-family:Inter,Arial,Helvetica,sans-serif;background:linear-gradient(#f7fafc,#fff);margin:0;color:#0f172a}
+.wrap{max-width:720px;margin:40px auto;padding:24px;background:white;border-radius:12px;box-shadow:0 8px 30px rgba(2,6,23,.08)}
+h1{margin:0 0 8px}
+.note{color:#334155}
+.status{display:flex;gap:12px;margin:16px 0;font-weight:600}
+.controls{display:flex;gap:12px;margin:12px 0}
+.big{background:#059669;color:white;padding:12px 18px;border-radius:10px;border:0;cursor:pointer;font-size:16px}
+.ghost{background:transparent;border:2px solid #64748b;color:#0f172a;padding:10px 14px;border-radius:10px;cursor:pointer}
+.result{margin-top:16px;padding:12px;border-radius:8px;background:#f1f5f9}
+.assign{margin-top:18px;padding-top:12px;border-top:1px dashed #e2e8f0}
+.assign input{padding:8px;width:60%;border-radius:8px;border:1px solid #cbd5e1;margin-right:8px}
+.small{font-size:13px;color:#475569;margin-top:8px}
+.faq{margin-top:18px;background:#f8fafc;padding:12px;border-radius:8px}
